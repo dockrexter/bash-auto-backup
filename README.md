@@ -13,7 +13,7 @@ A lightweight Bash script that automates daily file backups by creating timestam
 
 Clone and setup:
 
-git clone https://github.com/yourusername/bash-auto-backup.git
+git clone https://github.com/dockrexter/bash-auto-backup.git
 cd bash-auto-backup
 chmod +x backup.sh
 
